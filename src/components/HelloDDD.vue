@@ -47,6 +47,9 @@
                                 <template slot="title"></template>
                                 <el-menu-item index="2-1">实体</el-menu-item>
                                 <el-menu-item index="2-2">聚合</el-menu-item>
+                                <el-menu-item index="2-3">关联上下文</el-menu-item>
+                                <el-menu-item index="2-4">领域服务</el-menu-item>
+                                <el-menu-item index="2-5">应用服务</el-menu-item>
                             </el-menu-item-group>
                         </el-submenu>
                     </el-menu>
