@@ -7,7 +7,6 @@
 
 <script>
     // import mavonEditor from 'mavon-editor'
-
     export default {
         name: "DDDTheory",
         components: {
